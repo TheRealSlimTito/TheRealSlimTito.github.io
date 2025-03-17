@@ -1,0 +1,88 @@
+body {
+    background-color: #FAF3E0;
+    color: #2D2D2D;
+}
+
+h1 {
+    color: #D96C4F;
+    font-family: "Copperplate", "Copperplate Gothic Light", sans-serif;
+    font-size: 30px;
+}
+
+table, th, td {
+    border: 2px solid #3D405B; 
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 20px;
+    text-align: center;
+    font-family: Impact, sans-serif;
+}
+
+th {
+    background-color: #E07A5F; 
+}
+
+td {
+    background-color: #FCEAB8; 
+}
+
+p {
+    color: black
+}
+
+.subtitulo {
+    font-family: "Julius Sans One", sans-serif;
+    font-weight: bold;
+    color: #E07A5F;
+}
+
+.Lista{
+    font-family: "Fira Sans", sans-serif;
+    color: #E07A5F
+}
+
+.presentacion{
+    font-size: 20px;
+}
+
+.iquique{
+    color:#02bdf0
+}
+
+.iquique:hover{
+    color: #0285f0
+}
+
+.despedida{
+    font-size: 20px
+}
+
+#despedida_link{
+    color:#E07A5F
+}
+
+#despedida_link:hover{
+    color:#d43d15
+}
+
+#nota{
+    font-family: "Fira Sans", sans-serif;
+    font-size: 40px;
+    margin-left: 160px;
+}
+
+#boton{
+    color:#FAF3E0;
+    background-color: #E07A5F;
+}
+
+#boton:hover{
+    background-color:#d43d15;
+    margin-left: 50px;
+}
+
+#notaInput{
+    margin-left: 50px;
+}
